@@ -1,0 +1,14 @@
+{
+    "name": "9pocket/phprecr01",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "4.8.36"
+    },
+    "license": "GNU GPLv3",
+    "authors": [
+        {
+            "name": "radek",
+            "email": "radoslaw.zatoka@gmail.com"
+        }
+    ]
+}
